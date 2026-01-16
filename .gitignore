@@ -1,0 +1,10 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Temp / output
+deepseek_ocr_temp_output/
+
+# OS
+.DS_Store
